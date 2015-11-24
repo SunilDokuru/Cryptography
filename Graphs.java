@@ -2,17 +2,11 @@
 
 // Project3, CS-355, spring 2015
 
-// You write verifyHamCycle
-// You write verifyIsomorphism
-// You write randomPermutation
-// You write permuteGraph
-// You write permuteHamCycle
-// You write findHamCycle
-
 /*
  *  In this program I write procedures to: verifyHamCycle, verifyIsomorphism, randomPermutation, permuteGraph, 
  *  permuteHamCycle, and findHamCycle in the given files.
  */
+ 
 import java.util.*;
 import java.io.*;
 import java.util.Random;
